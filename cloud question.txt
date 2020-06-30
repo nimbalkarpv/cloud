@@ -1,0 +1,75 @@
+1) What is cloud ?
+->    Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and
+ computing power, without direct active management by the user. 
+... Cloud computing relies on sharing of resources to achieve coherence and economies of scale.
+
+Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing.
+ Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, 
+such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS)
+
+
+
+2)  Advantages of cloud ?
+->    1. Less Costs
+The services are free from capital expenditure. There are no huge costs of hardware in cloud computing. You just have to pay as you operate it and enjoy the
+ model based on your subscription plan.
+
+2. 24 X 7 Availability
+Most of the cloud providers are truly reliable in offering their services, with most of them maintaining an uptime of 99.9%. 
+The workers can get onto the applications needed basically from anywhere. Some of the applications even function off-line.
+
+3. Flexibility in Capacity
+It offers flexible facility which could be turned off, up or down as per the circumstances of the user. For instance, a promotion of sales is very popular,
+ capacity can be immediately and quickly added to it for the avoidance of losing sales and crashing servers. When those sales are done, the capacity can also 
+be shrunk for the reduction of costs.
+
+4. All over Functioning
+Cloud computing offers yet another advantage of working from anywhere across the globe, as long as you have an internet connection. 
+Even while using the critical cloud services that offer mobile apps, there is no limitation of the device used.
+
+5. Automated Updates on Software
+In cloud computing, the server suppliers regularly update your software including the updates on security, so that you do not need to agonize on wasting
+ your crucial time on maintaining the system. You find extra time to focus on the important things like ‘How to grow your businesses.
+
+6. Security
+Cloud computing offers great security when any sensitive data has been lost. As the data is stored in the system, it can be easily accessed even if something 
+happens to your computer. You can even remotely wipe out data from the lost machines for avoiding it getting in the wrong hands.
+
+7. Carbon Footprint
+Cloud computing is helping out organizations to reduce their carbon footprint. Organizations utilize only the amount of resources they need, which helps 
+them to avoid any over-provisioning. Hence, no waste of resources and thus energy.
+
+8. Enhanced Collaboration
+Cloud applications enhance collaboration by authorizing diverse groups of people virtually meet and exchange information with the help of shared storage. 
+Such capability helps in improving the customer service and product development and also reducing the marketing time.
+
+9. Control on the Documents
+Before cloud came into being, workers needed to send files in and out as the email attachments for being worked on by a single user at one time ultimately 
+ending up with a mess of contrary titles, formats, and file content. Moving to cloud computing has facilitated central file storage.
+
+10. Easily Manageable
+Cloud computing offers simplified and enhanced IT maintenance and management capacities by agreements backed by SLA, central resource administration and 
+managed infrastructure. You get to enjoy a basic user interface without any requirement for installation. Plus you are assured guaranteed and timely management,
+ maintenance, and delivery of the IT services.
+
+Even the few of these advantages of cloud computing might be enough to persuade businesses to move onto the cloud computing services. But when summed up 
+all of these 10, it is accosting no-brainer domain.
+
+
+
+
+3) Types of cloud ?
+
+->    Public Cloud – Whole computing infrastructure is located on the premises of a cloud computing company that offers the cloud service.
+
+Private Cloud – Hosting all your computing infrastructure yourself and is not shared. The security and control level is highest while using a private network.
+
+Hybrid Cloud – using both private and public clouds, depending on their purpose. You host your most important applications on your own servers to keep them 
+more secure and secondary applications elsewhere.
+
+
+
+4) What is an EC2 in aws?
+->    Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make
+ web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal 
+friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing enviro
