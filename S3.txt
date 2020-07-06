@@ -1,0 +1,6 @@
+ 1)How to create s3 service ?
+
+->open the Amazon S3 console
+->Create bucket.
+->Bucket name.After you create the bucket, you can't change its name.
+->we can host website here.
