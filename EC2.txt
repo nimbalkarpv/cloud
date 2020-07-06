@@ -1,0 +1,9 @@
+1) How to create EC2 ?
+
+-> Open the Amazon EC2.
+-> Choose Launch Instance.
+-> Choose an Amazon Machine Image (AMI),
+-> Choose an Instance Type,
+-> Next: Configure Instance Details.
+-> Add Storage.
+-> Add Tags.
