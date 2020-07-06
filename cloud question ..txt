@@ -1,11 +1,8 @@
-1) What is cloud ?
+<h3>1) What is cloud ?</h3>
 ->    Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and
  computing power, without direct active management by the user. 
 ... Cloud computing relies on sharing of resources to achieve coherence and economies of scale.
 
-Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing.
- Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, 
-such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS)
 
 
 
